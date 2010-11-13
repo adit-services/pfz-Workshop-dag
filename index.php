@@ -1,4 +1,4 @@
 <?php
 
-echo "Hello mars";
+echo "Hello PFZ.nl";
 ?>
